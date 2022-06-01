@@ -3,10 +3,6 @@ Customer segmentation is a marketing tool to group your customers based on commo
 
 In Retail & e-Commerce sectors the chain of Supermarkets, Stores & Lots of e-Commerce Channel generating large amount of data on daily basis across all the stores. This wide range of customer’s transaction we need to analyze for making profitable strategies and decision.
 All customers having their different kind of needs. Increasing customer’s transaction and customer base it is not very much easy to understand the requirement of each customer. Identifying potential customers can improve the marketing campaign, which ultimately increases the sales and generate more cash for business. We are using customer Segmentation for grouping those customers into various segments
-#### RFM Dashboard
-
-Th![rfm_dashboard](https://user-images.githubusercontent.com/90573789/171500386-4fded029-b476-4e34-a4fc-94bd457eec62.png)
-ere are at least two main goals of customer segmentation:
 
 1-Continue to provide the best service to your best customers.
 2-Focus on prospective customers who resemble your best customers.
